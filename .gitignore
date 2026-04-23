@@ -1,0 +1,25 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local runtime data and secrets
+local/
+data/
+local_secrets/
+*.sqlite
+*.sqlite3
+*.db
+api key.txt
+.env
+
+# Build and release artifacts
+artifacts/
+build/
+dist/
+release/*.exe
+
+# Logs and temporary files
+*.log
+tmp_*.py

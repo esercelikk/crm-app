@@ -1,0 +1,2 @@
+"""NexCRM Pro application package."""
+
