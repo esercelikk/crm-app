@@ -173,7 +173,7 @@ Veriler yerel olarak SQLite üzerinde saklanır.
 ## 👨‍💻 Geliştirici
 
 **Eser Çelik**
-Bilgisayar Mühendisliği
+Bilgisayar Programcılığı
 
 ---
 
