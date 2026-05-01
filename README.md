@@ -23,36 +23,36 @@ NexCRM Pro, müşteri yönetimi, satış pipeline takibi, görev planlama, rapor
 
 ##  Temel Özellikler
 
-### 👥 Müşteri Yönetimi
+###  Müşteri Yönetimi
 
 * Müşteri ekleme, düzenleme ve silme
 * Etiket, öncelik ve durum takibi
 * Not, dosya ve mail geçmişi
 
-### 📊 Satış & Pipeline
+###  Satış & Pipeline
 
 * Fırsat oluşturma ve aşama takibi
 * Potansiyel → Görüşme → Teklif → Kazanıldı / Kaybedildi
 * Satış performans analizi
 
-### 📅 Planlama & Takip
+###  Planlama & Takip
 
 * Görüşme ve toplantı yönetimi
 * Takvim görünümü
 * Görev oluşturma ve takip
 
-### 📁 Dosya & Mail Yönetimi
+###  Dosya & Mail Yönetimi
 
 * Dosya yükleme ve arşivleme
 * Mail kayıtları ve şablonlar
 
-### 📈 Raporlama
+###  Raporlama
 
 * Dashboard özetleri
 * Grafikler ve analizler
 * PDF rapor çıktısı
 
-### 🤖 AI Destekli CRM
+###  AI Destekli CRM
 
 * Müşteri risk analizi
 * Satış önerileri
@@ -61,7 +61,7 @@ NexCRM Pro, müşteri yönetimi, satış pipeline takibi, görev planlama, rapor
 
 ---
 
-## 🖥️ Ana Ekranlar
+##  Ana Ekranlar
 
 * Dashboard
 * Müşteriler
@@ -78,7 +78,7 @@ NexCRM Pro, müşteri yönetimi, satış pipeline takibi, görev planlama, rapor
 
 ---
 
-## 🛠️ Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 
 * Python
 * PyQt5
@@ -89,7 +89,7 @@ NexCRM Pro, müşteri yönetimi, satış pipeline takibi, görev planlama, rapor
 
 ---
 
-## 📂 Proje Yapısı
+##  Proje Yapısı
 
 ```text
 CRM_app/
