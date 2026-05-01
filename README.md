@@ -1,27 +1,27 @@
-# 🚀 NexCRM Pro
+#  NexCRM 
 
 Modern, güçlü ve kullanıcı dostu bir **CRM (Customer Relationship Management)** masaüstü uygulaması.
 Satış ekiplerinin müşteri ilişkilerini, fırsatlarını ve günlük operasyonlarını tek bir platform üzerinden yönetmesini sağlar.
 
 ---
 
-## ⚡ Hızlı Başlangıç
+##  Hızlı Başlangıç
 
 Uygulamayı hızlıca test etmek için:
 
-👉 **`CRM APP.exe` dosyasını çalıştırın**
+ **`CRM APP.exe` dosyasını çalıştırın**
 
 Kurulum gerektirmez, doğrudan çalışır.
 
 ---
 
-## 🧠 Proje Hakkında
+##  Proje Hakkında
 
 NexCRM Pro, müşteri yönetimi, satış pipeline takibi, görev planlama, raporlama ve AI destekli analiz özelliklerini tek bir sistemde birleştiren kapsamlı bir CRM çözümüdür. 
 
 ---
 
-## 🎯 Temel Özellikler
+##  Temel Özellikler
 
 ### 👥 Müşteri Yönetimi
 
@@ -111,7 +111,7 @@ CRM_app/
 
 ---
 
-## ⚙️ Kurulum (Kaynak Koddan)
+##  Kurulum (Kaynak Koddan)
 
 1. Python yüklü olmalı
 2. Projeyi indirin
@@ -123,18 +123,18 @@ python main.py
 
 ---
 
-## 🧩 Sistem Mimarisi
+##  Sistem Mimarisi
 
 Uygulama modüler yapıdadır:
 
-* 🎯 **Arayüz Katmanı:** PyQt5 tabanlı UI
-* 💾 **Veritabanı Katmanı:** SQLite
-* 🔐 **Yetki Katmanı:** Rol bazlı erişim sistemi
-* 🤖 **AI Katmanı:** OpenRouter API + lokal analiz
+*  **Arayüz Katmanı:** PyQt5 tabanlı UI
+*  **Veritabanı Katmanı:** SQLite
+*  **Yetki Katmanı:** Rol bazlı erişim sistemi
+*  **AI Katmanı:** OpenRouter API + lokal analiz
 
 ---
 
-## 🧠 AI Özellikleri
+##  AI Özellikleri
 
 * Müşteri AI skoru
 * Risk ve fırsat analizi
@@ -144,7 +144,7 @@ Uygulama modüler yapıdadır:
 
 ---
 
-## 🗄️ Veritabanı
+##  Veritabanı
 
 Temel tablolar:
 
@@ -162,7 +162,7 @@ Veriler yerel olarak SQLite üzerinde saklanır.
 
 ---
 
-## 📌 Not
+##  Not
 
 * Bu repo hem **kaynak kod** hem de **çalıştırılabilir (.exe)** içerir
 * EXE hızlı test için eklenmiştir
@@ -170,7 +170,7 @@ Veriler yerel olarak SQLite üzerinde saklanır.
 
 ---
 
-## 👨‍💻 Geliştirici
+##  Geliştirici
 
 **Eser Çelik**
 
